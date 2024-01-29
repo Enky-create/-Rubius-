@@ -1,0 +1,15 @@
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.exe
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.deps.json
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.runtimeconfig.json
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.dll
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\bin\Debug\net8.0\HomeWork1.pdb
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.AssemblyInfoInputs.cache
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.AssemblyInfo.cs
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.csproj.CoreCompileInputs.cache
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.sourcelink.json
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.dll
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\refint\HomeWork1.dll
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.pdb
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\HomeWork1.genruntimeconfig.cache
+N:\Rubius\-Rubius-\HomeWork1\HomeWork1\obj\Debug\net8.0\ref\HomeWork1.dll
