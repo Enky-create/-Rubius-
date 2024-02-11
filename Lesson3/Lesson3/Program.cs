@@ -14,7 +14,6 @@ while (true)
     Console.WriteLine($"Size of array must be greater than 1.\n You entered {arraySize}");
 }
 
-
 for(var i=0; i<arraySize; i++)
 {
     Console.WriteLine($"Enter {i} member of array");
@@ -39,7 +38,6 @@ else
 {
     Console.WriteLine($"all members of array are the same");
 }
-
 int ReadNumber()
 {
     while (true)
