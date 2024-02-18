@@ -1,0 +1,15 @@
+N:\Rubius\-Rubius-\Lesson6\Lesson6\bin\Debug\net8.0\Lesson6.exe
+N:\Rubius\-Rubius-\Lesson6\Lesson6\bin\Debug\net8.0\Lesson6.deps.json
+N:\Rubius\-Rubius-\Lesson6\Lesson6\bin\Debug\net8.0\Lesson6.runtimeconfig.json
+N:\Rubius\-Rubius-\Lesson6\Lesson6\bin\Debug\net8.0\Lesson6.dll
+N:\Rubius\-Rubius-\Lesson6\Lesson6\bin\Debug\net8.0\Lesson6.pdb
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.AssemblyInfoInputs.cache
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.AssemblyInfo.cs
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.csproj.CoreCompileInputs.cache
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.sourcelink.json
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.dll
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\refint\Lesson6.dll
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.pdb
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\Lesson6.genruntimeconfig.cache
+N:\Rubius\-Rubius-\Lesson6\Lesson6\obj\Debug\net8.0\ref\Lesson6.dll
