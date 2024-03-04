@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lesson6
 {
-    internal class Stack<T>
+    public class Stack<T>
     {
         private List<T> objects = new List<T>();
         public void Push(T obj) 
