@@ -1,0 +1,15 @@
+N:\Rubius\-Rubius-\Lesson8\PingPong\bin\Debug\net8.0\PingPong.exe
+N:\Rubius\-Rubius-\Lesson8\PingPong\bin\Debug\net8.0\PingPong.deps.json
+N:\Rubius\-Rubius-\Lesson8\PingPong\bin\Debug\net8.0\PingPong.runtimeconfig.json
+N:\Rubius\-Rubius-\Lesson8\PingPong\bin\Debug\net8.0\PingPong.dll
+N:\Rubius\-Rubius-\Lesson8\PingPong\bin\Debug\net8.0\PingPong.pdb
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.AssemblyInfoInputs.cache
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.AssemblyInfo.cs
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.csproj.CoreCompileInputs.cache
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.sourcelink.json
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.dll
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\refint\PingPong.dll
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.pdb
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\PingPong.genruntimeconfig.cache
+N:\Rubius\-Rubius-\Lesson8\PingPong\obj\Debug\net8.0\ref\PingPong.dll

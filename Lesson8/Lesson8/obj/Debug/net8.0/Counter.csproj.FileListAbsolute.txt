@@ -1,0 +1,15 @@
+N:\Rubius\-Rubius-\Lesson8\Lesson8\bin\Debug\net8.0\Counter.exe
+N:\Rubius\-Rubius-\Lesson8\Lesson8\bin\Debug\net8.0\Counter.deps.json
+N:\Rubius\-Rubius-\Lesson8\Lesson8\bin\Debug\net8.0\Counter.runtimeconfig.json
+N:\Rubius\-Rubius-\Lesson8\Lesson8\bin\Debug\net8.0\Counter.dll
+N:\Rubius\-Rubius-\Lesson8\Lesson8\bin\Debug\net8.0\Counter.pdb
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.sourcelink.json
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.dll
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\refint\Counter.dll
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.pdb
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\Counter.genruntimeconfig.cache
+N:\Rubius\-Rubius-\Lesson8\Lesson8\obj\Debug\net8.0\ref\Counter.dll
