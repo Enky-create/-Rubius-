@@ -1,0 +1,22 @@
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9.deps.json
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9.runtimeconfig.json
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9.exe
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9 part 2.exe
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9 part 2.deps.json
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9 part 2.runtimeconfig.json
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9 part 2.dll
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9 part 2.pdb
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9.dll
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\bin\Release\net8.0\Lesson9.pdb
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.csproj.AssemblyReference.cache
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.GeneratedMSBuildEditorConfig.editorconfig
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.AssemblyInfoInputs.cache
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.AssemblyInfo.cs
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.csproj.CoreCompileInputs.cache
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.sourcelink.json
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.csproj.CopyComplete
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.dll
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\refint\Lesson9 part 2.dll
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.pdb
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\Lesson9 part 2.genruntimeconfig.cache
+N:\Rubius\-Rubius-\Lesson9\Lesson9 part 2\obj\Release\net8.0\ref\Lesson9 part 2.dll
